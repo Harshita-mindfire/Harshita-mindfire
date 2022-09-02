@@ -6,4 +6,4 @@ I'm Harshita Joshi.
 Here are some ideas to get you started: -->
 - 💻 I am working at [Dendron](https://github.com/dendronhq).
 - 🌱 Currently learning [Nextjs](https://nextjs.org/), a flexible React framework that gives you building blocks to create fast web applications.
-- 😄 Pronouns: She/Her
+- Read my Github GraphQL cheatsheet blog [here](https://medium.com/@tharshita13/github-graphql-api-cheatsheet-38e916fe76a3)
