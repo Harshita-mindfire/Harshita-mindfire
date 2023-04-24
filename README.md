@@ -12,10 +12,6 @@
 
 #### 💻 &nbsp; About Me :
 - I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- I build web applications, vscode plugins and chrome extensions.
-
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Harshita-mindfire&theme=light)](https://git.io/streak-stats) 
- 
+- I build web applications, vscode plugins and chrome extensions. 
 <!--
 **Harshita-mindfire/Harshita-mindfire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
